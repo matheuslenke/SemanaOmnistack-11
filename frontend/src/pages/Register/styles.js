@@ -41,7 +41,7 @@ export const Section = styled.section`
   }
 `;
 
-export const Form = styled.div`
+export const Form = styled.form`
   width: 100%;
   max-width: 450px;
   margin-right: 30px;

@@ -18,7 +18,7 @@ export const Container = styled.div`
   }
 `;
 
-export const Form = styled.div`
+export const Form = styled.form`
   width: 100%;
   max-width: 350px;
   margin-right: 30px;
