@@ -10,16 +10,19 @@ export default createGlobalStyle`
     box-sizing: border-box;
     max-width: 100%;
     overflow-x: hidden;
+    
   }
   *:focus {
     outline: 0;
   }
   html, body, #root {
+    
     height: 100%;
   }
   body {
     font: 400 14px 'Roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
+    background: #f0f0f5;
   }
 
   input, button, textarea {
