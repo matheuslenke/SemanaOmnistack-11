@@ -17,5 +17,6 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
+    "properties": "never"
   },
 };
